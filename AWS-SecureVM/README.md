@@ -45,4 +45,15 @@ I already have quite a bit of experience with AWS Services, which you can find h
 3. Using the public ipv4 address of our VM, username Administator, and our decrypted password, I successfully accessed our secure VM.
 
 ### Key Takeaways
+- **Secure and Isolated Environment**: The VM is built inside a dedicated VPC and subnet, ensuring a controlled and secure space for cybersecurity experiments.
+- **Versatile Cybersecurity Lab**: This VM serves as a foundation for multiple security and forensic projects, including:
+  - **Analyzing user browser history** to detect suspicious activity.
+  - **Leveraging FTK Imager** to acquire and analyze forensic disk images.
+  - **Wireshark for network analysis**, allowing for packet capture and threat detection.
+  - **Malware analysis tools** to examine and reverse-engineer potential threats.
+  - **Phishing investigation techniques**, studying email headers and forensic artifacts.
 
+  - and more...!
+    
+- **AWS Best Practices**: The instance follows best security practices, including restricted inbound traffic, key-pair authentication, and controlled administrative access.
+- **Scalability & Future Projects**: This VM setup can be referenced for all future cybersecurity investigations and forensic experiments, streamlining future configurations and deployments.
