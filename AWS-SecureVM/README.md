@@ -1,7 +1,7 @@
 # 🏠 Creating a Secure VM in AWS
 
 ## 📖 Overview
-This guide outlines the setup of an **Amazon EC2 Instance** designed to serve as a secure environment for conducting cybersecurity projects, including digital forensics, network analysis, and threat intelligence. By utilizing a secure VM, I adhere to best security practices while gaining valuable hands-on experience in a controlled and safe setting.
+This document outlines the setup of an **Amazon EC2 Instance** designed to serve as a secure environment for conducting cybersecurity projects, including digital forensics, network analysis, and threat intelligence. By utilizing a secure VM, I adhere to best security practices while gaining valuable hands-on experience in a controlled and safe setting.
 
 I already have quite a bit of experience with AWS Services, which you can find here. [AWS Projects](https://github.com/wilbcn/AWS-Projects) 
 
